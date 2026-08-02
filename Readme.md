@@ -5,7 +5,7 @@
 ### Backend Developer in Progress • Java • AI • Quantum Computing Enthusiast
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;Learning+Java+%7C+DSA+%7C+Backend;Building+Projects+Every+Week;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=;Learning+Java+%7C+DSA+%7C+Backend;Building+Projects+Every+Week;Always+Learning+Something+New" />
 </p>
 
 </div>
@@ -16,8 +16,7 @@
 
 ```yaml
 Name: Namit Tiwari
-Role: B.Tech CSE Student
-College: South Asian University
+
 Location: New Delhi, India
 
 Currently Learning:
