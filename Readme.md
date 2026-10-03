@@ -116,16 +116,12 @@ https://github.com/tiwarinamit131-droid/FWD_BACHAT_FINAL
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/namit-tiwari-56b675380">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-<img src="https://skillicons.dev/icons?i=leetcode"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-🌐 Portfolio
+<a href="https://tiwarinamit131-droid.github.io">
+<img src="https://img.shields.io/badge/Portfolio-NamitOS_terminal-ffb547?style=for-the-badge&logo=gnometerminal&logoColor=1b1206&labelColor=1b1206" height="48"/>
 </a>
 
 </p>
